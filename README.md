@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm David Maene ( Kubuya David Darone )</h1>
+<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kubuya David Darone and my nickname is  David Maene </h1>
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
 
@@ -10,15 +10,16 @@
 
 - I work diligently as an individual and as a team member. I develop professional desktop, web, and mobile applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications
   
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-- 📫 How to reach me **bagmurhulaibrahim@gmail.com**
+- 🌱 I’m currently learning **Data Structures and Algorithms with Js**
 
-- ⚡ Fun fact **I play games.**
+- 📫 How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com** | **+243 970 284 772**
+
+- ⚡ My favorites langages are  **Javascript & PHP**
 
 ## 🚀 Languages and Tools:
 
