@@ -1,10 +1,10 @@
 <!-- <a href="https://davidmaene.reitecinfo.net" style="display: flex; justify-content: center;" align="center"><img height="auto" src="./imgs/profile.jpg" width="35%" /></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<!-- [![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene) -->
 <p align="center">
-    <!-- <a href="https://github.com/davmaene/github-readme-streak-stats">
+    <a href="https://github.com/davmaene/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="david maene's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> -->
-[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)
+    </a>
 </p>
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is <strong>Kubuya David Darone</strong> and my nickname is  David Maene </h1>
@@ -50,9 +50,7 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p> -->
 
-<p align="center">
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-</p>
 <br/>
 
 <p align="center">
