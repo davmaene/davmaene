@@ -8,12 +8,12 @@
 
 - ⚡Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
-- I work diligently as an individual and as a team member. I develop professional desktop, web, and mobile applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications
+- I work diligently as an individual and as a team member. I develop professional desktop (electronJs, JavaSwing), web (React, HTML, CSS), and mobile (React-native, Android-JAVA) applications. 
   
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for **New Opportunities**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **davidmaene.reitecinfo.net**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms with Js**
 
@@ -43,18 +43,18 @@
     <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
 </p>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/IbrahimBagalwa/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/davmaene/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimBagalwa&show_icons=true&theme=dark&hide_title=true)](https://github.com/IbrahimBagalwa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimBagalwa&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/IbrahimBagalwa)|![IbrahimBagalwa](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBagalwa&theme=dark)
+|[![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)|![davmaene](https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=dark)
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -62,19 +62,19 @@
 <br/>
 <br/>
 
-[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=IbrahimBagalwa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Ibrahimbagalwa/github-readme-activity-graph)
+[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=davmaene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/davmaene/github-readme-activity-graph)
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ibrahim_Bagalwa) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/IbrahimBagalwa) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:bagmurhulaibrahim@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ibrahim_Bagalwa) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/davmaene) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:bagmurhulaibrahim@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
 ___
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/IbrahimBagalwa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=IbrahimBagalwa">
+<a href="https://github.com/davmaene/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=davmaene">
 </a>
-<a href="https://github.com/IbrahimBagalwa?tab=followers"><img src="https://img.shields.io/github/followers/IbrahimBagalwa?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/davmaene?tab=followers"><img src="https://img.shields.io/github/followers/davmaene?label=Followers&style=social" alt="GitHub Badge"></a>
