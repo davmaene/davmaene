@@ -7,7 +7,7 @@
 </p> -->
 <!-- |My github statistics|My favorites languages 🔥| -->
 <!-- |-|-| -->
-|[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene)
+[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene)
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
 <br />
 <br />
