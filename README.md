@@ -1,7 +1,7 @@
-<a href="https://davidmaene.reitecinfo.net" style="display: flex; justify-content: center;"><img height="auto" src="./imgs/profile.jpg" width="35%" /></a>
+<a href="https://davidmaene.reitecinfo.net" style="display: flex; justify-content: center;" align="center"><img height="auto" src="./imgs/profile.jpg" width="35%" /></a>
 
-<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kubuya David Darone and my nickname is  David Maene </h1>
-<h3 align="center">I am a Full-Stack Software Engineer</h3>
+<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is <strong>Kubuya David Darone</strong> and my nickname is  David Maene </h1>
+<h3 align="center">I am a Electrical engineer and Full-Stack Software Dev.</h3>
 
 
 ## 🙋‍♂️ About Me
