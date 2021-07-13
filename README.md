@@ -1,4 +1,4 @@
-<a href="https://davidmaene.reitecinfo.net"><img height="auto" src="./imgs/profile.jpg" height="100px"/></a>
+<a href="https://davidmaene.reitecinfo.net"><img height="auto" src="./imgs/profile.jpg" height="60px"/></a>
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kubuya David Darone and my nickname is  David Maene </h1>
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
