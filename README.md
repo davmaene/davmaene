@@ -5,6 +5,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="david maene's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> -->
+|My github statistics|My favorites languages 🔥|
 |-|-|
 |[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)
 <br />
