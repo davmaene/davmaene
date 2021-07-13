@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./imgs/profile.jpg" height="100px"/></a>
+<a href="https://davidmaene.reitecinfo.net"><img height="auto" src="./imgs/profile.jpg" height="100px"/></a>
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kubuya David Darone and my nickname is  David Maene </h1>
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
@@ -69,7 +69,7 @@
 ## Connect with me:
 <p align="left">
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ibrahim_Bagalwa) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/davmaene) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:bagmurhulaibrahim@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dav_maene) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](#) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](#)
 ___
 </p>
 
