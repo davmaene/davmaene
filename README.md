@@ -1,4 +1,6 @@
-<a href="https://davidmaene.reitecinfo.net" style="display: flex; justify-content: center;" align="center"><img height="auto" src="./imgs/profile.jpg" width="35%" /></a>
+<!-- <a href="https://davidmaene.reitecinfo.net" style="display: flex; justify-content: center;" align="center"><img height="auto" src="./imgs/profile.jpg" width="35%" /></a> -->
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is <strong>Kubuya David Darone</strong> and my nickname is  David Maene </h1>
 <h3 align="center">I am a Electrical engineer and Full-Stack Software Dev.</h3>
@@ -48,21 +50,19 @@
 
 <p align="center">
     <a href="https://github.com/davmaene/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa Ibrahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bagalwa davmaene's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)|![davmaene](https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=dark)
+|[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)|![davmaene](https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=dark)
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 
-[![Ibrahim's github activity graph](https://activity-graph.herokuapp.com/graph?username=davmaene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/davmaene/github-readme-activity-graph)
+[![davmaene's github activity graph](https://activity-graph.herokuapp.com/graph?username=davmaene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/davmaene/github-readme-activity-graph)
 <br/>
 <br/>
 
