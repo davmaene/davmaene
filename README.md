@@ -5,9 +5,10 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="david maene's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> -->
-|My github statistics|My favorites languages 🔥|
-|||
-|[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)
+<!-- |My github statistics|My favorites languages 🔥| -->
+<!-- |-|-| -->
+|[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene)
+<!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
 <br />
 <br />
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is <b>Kubuya David Darone</b> and my nickname is  David Maene </h1>
