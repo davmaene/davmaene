@@ -7,7 +7,9 @@
 </p> -->
 <!-- |My github statistics|My favorites languages 🔥| -->
 <!-- |-|-| -->
-[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene)
+<!-- [![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene) -->
+![David Maene](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
 <br />
 <br />
@@ -60,10 +62,9 @@
 <br/>
 
 <p align="center">
-    <!-- <a href="https://github.com/davmaene/github-readme-streak-stats">
+    <a href="https://github.com/davmaene/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="david maene's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> -->
-    [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)
+    </a>
 </p>
 
 |statistics|languages|Streaks|
