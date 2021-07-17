@@ -8,7 +8,7 @@
 <!-- |My github statistics|My favorites languages 🔥| -->
 <!-- |-|-| -->
 <!-- [![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene) -->
-![David Maene](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Most used langages](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&theme=blue-green)
 
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
 <br />
