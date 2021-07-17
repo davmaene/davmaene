@@ -60,9 +60,10 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/davmaene/github-readme-streak-stats">
+    <!-- <a href="https://github.com/davmaene/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="david maene's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
+    [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)
 </p>
 
 |statistics|languages|Streaks|
