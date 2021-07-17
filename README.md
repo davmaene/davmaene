@@ -65,7 +65,7 @@
     </a>
 </p>
 
-|My github statistics|My languages|Streaks|
+|statistics|languages|Streaks|
 |-|-|-|
 |[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)|![davmaene](https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=dark)
 <br/>
