@@ -17,7 +17,7 @@
 <h3 align="center">I am a Electrical civil engineer and Full-Stack Software Dev.</h3>
 
 
-## 🙋‍♂️ About Me
+# About Me
 
 - ⚡Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
@@ -57,7 +57,7 @@
 </p> -->
 
 <!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  -->
-<br/>
+<!-- <br/>
 <br/>
 <br/>
 
@@ -71,15 +71,15 @@
 |-|-|-|
 |[![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=dark&hide_title=true)](https://github.com/davmaene)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene)|![davmaene](https://github-readme-streak-stats.herokuapp.com/?user=davmaene&theme=dark)
 <br/>
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
-<!-- [![davmaene's github activity graph](https://activity-graph.herokuapp.com/graph?username=davmaene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/davmaene/github-readme-activity-graph) -->
+[![davmaene's github activity graph](https://activity-graph.herokuapp.com/graph?username=davmaene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/davmaene/github-readme-activity-graph)
 <br/>
-<br/>
+<br/> -->
 
-## Contact me:
+# Contact me:
 <p align="left">
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net)
