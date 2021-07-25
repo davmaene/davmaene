@@ -79,15 +79,15 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Contact me:
 <p align="left">
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](#) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net)
 ___
 </p>
-
+<!-- 
 ## ❤ Views and Followers
 <a href="https://github.com/davmaene/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=davmaene">
 </a>
-<a href="https://github.com/davmaene?tab=followers"><img src="https://img.shields.io/github/followers/davmaene?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/davmaene?tab=followers"><img src="https://img.shields.io/github/followers/davmaene?label=Followers&style=social" alt="GitHub Badge"></a> -->
