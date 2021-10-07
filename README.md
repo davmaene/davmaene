@@ -8,31 +8,29 @@
 <!-- |My github statistics|My favorites languages 🔥| -->
 <!-- |-|-| -->
 <!-- [![davmaene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davmaene&show_icons=true&theme=merko&hide_title=true&count_private=true)](https://github.com/davmaene) -->
-![langages](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene)
+<!-- ![langages](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene) -->
 
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
-<br />
-<br />
-<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is <b>Kubuya David Darone</b> and my nickname is  David Maene </h1>
-<h3 align="center">I am a Electrical civil engineer and Full-Stack Software Dev.</h3>
+# About me
+- Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is <b>Kubuya David Darone</b> and my nickname is  David Maene 
+I am a Electrical civil engineer and Full-Stack Software Dev.
 
+# Skills
 
-# About Me
+- ⚡ Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
-- ⚡Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
-
-- I work diligently as an individual and as a team member. I develop professional desktop (electronJs, JavaSwing), web (React, HTML, CSS), and mobile (React-native, Android-JAVA) applications. 
+- ⚡ I work diligently as an individual and as a team member. I develop professional desktop (electronJs, JavaSwing), web (React, HTML, CSS), and mobile (React-native, Android-JAVA) applications. 
   
 
-- 👯 I’m looking for **New Opportunities**
+- ⚡ I’m looking for **New Opportunities**
 
-- 👨‍💻 All of my projects are available at **davidmaene.reitecinfo.net**
+- ⚡ All of my projects are available at [**davidmaene.reitecinfo.net**](https://davidmaene.reitecinfo.net)
 
-- 🌱 I’m currently learning **Data Structures, Data Analyses and Algorithms with Js**
+- ⚡ I’m currently learning **Data Structures, Data Analyses and Algorithms with Js**
 
-- 📫 How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com** | **+243 970 284 772**
+- ⚡ How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com** 
 
-- ⚡ My favorites langages are  **Javascript & PHP**
+<!-- - ⚡ My favorites langages are  **Javascript & PHP** -->
 <!-- 
 ## 🚀 Languages and Tools:
 
@@ -79,12 +77,9 @@
 <br/>
 <br/> -->
 
-# Contact me:
-<p align="left">
-
+# Contact me
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net)
-___
-</p>
+
 <!-- 
 ## ❤ Views and Followers
 <a href="https://github.com/davmaene/github-profile-views-counter">
