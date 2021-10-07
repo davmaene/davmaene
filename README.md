@@ -12,7 +12,7 @@
 
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
 # About me
-- Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is <b>Kubuya David Darone</b> and my nickname is  David Maene 
+- Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is **Kubuya David Darone** and my nickname is  ***David Maene***
 I am a Electrical civil engineer and Full-Stack Software Dev.
 
 # Skills
