@@ -1,3 +1,22 @@
+<!--
+**Theophile-Kango/Theophile-Kango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[![Theophile's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=davmaene&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/davmaene)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/davmaene)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&" alt="davmaene" /></p> -->
 <!-- <a href="https://davidmaene.reitecinfo.net" style="display: flex; justify-content: center;" align="center"><img height="auto" src="./imgs/profile.jpg" width="35%" /></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <!-- <p align="center">
@@ -11,11 +30,11 @@
 <!-- ![langages](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene) -->
 
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/davmaene) -->
-# About me
+<!-- # About me
 - Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is **Kubuya David Darone** and my nickname is  ***David Maene***
-I am a Electrical civil engineer and Full-Stack Software Dev.
+I am a Electrical civil engineer and Full-Stack Software Dev. -->
 
-# Skills
+<!-- # Skills
 
 - ⚡ Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
@@ -28,7 +47,7 @@ I am a Electrical civil engineer and Full-Stack Software Dev.
 
 - ⚡ I’m currently learning **Data Structures, Data Analyses and Algorithms with Js**
 
-- ⚡ How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com** 
+- ⚡ How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com**  -->
 
 <!-- - ⚡ My favorites langages are  **Javascript & PHP** -->
 <!-- 
@@ -77,8 +96,8 @@ I am a Electrical civil engineer and Full-Stack Software Dev.
 <br/>
 <br/> -->
 
-# Contact me
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net)
+<!-- # Contact me
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net) -->
 
 <!-- 
 ## ❤ Views and Followers
