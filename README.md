@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Theophile's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=davmaene&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/davmaene)
+[![Davidmaene's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=davmaene&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/davmaene)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/davmaene)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&" alt="davmaene" /></p> -->
