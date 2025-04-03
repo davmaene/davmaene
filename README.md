@@ -1,5 +1,5 @@
 <!--
-**Theophile-Kango/Theophile-Kango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**David Maene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Davidmaene's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=davmaene&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/davmaene) -->
+[![Davidmaene's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=davmaene&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/davmaene)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davmaene&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/davmaene)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davmaene&" alt="davmaene" /></p> -->
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is **Kubuya David Darone** and my nickname is  ***David Maene***
 I am a Electrical civil engineer and Full-Stack Software Dev. -->
 
-<!-- # Skills
+# Skills
 
 - ⚡ Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
@@ -47,7 +47,7 @@ I am a Electrical civil engineer and Full-Stack Software Dev. -->
 
 - ⚡ I’m currently learning **Data Structures, Data Analyses and Algorithms with Js**
 
-- ⚡ How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com**  -->
+- ⚡ How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com**
 
 <!-- - ⚡ My favorites langages are  **Javascript & PHP** -->
 <!-- 
@@ -73,7 +73,7 @@ I am a Electrical civil engineer and Full-Stack Software Dev. -->
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p> -->
 
-<!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  -->
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 <!-- <br/>
 <br/>
 <br/>
