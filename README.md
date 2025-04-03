@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> my name is **Kubuya David Darone** and my nickname is  ***David Maene***
 I am a Electrical civil engineer and Full-Stack Software Dev. -->
 
-# Skills
+<!-- # Skills
 
 - ⚡ Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
@@ -43,11 +43,11 @@ I am a Electrical civil engineer and Full-Stack Software Dev. -->
 
 - ⚡ I’m looking for **New Opportunities**
 
-- ⚡ All of my projects are available at [**davidmaene.reitecinfo.net**](https://davidmaene.reitecinfo.net)
+- ⚡ All of my projects are available at [**davidmaene.github.io**](https://davidmaene.github.io)
 
 - ⚡ I’m currently learning **Data Structures, Data Analyses and Algorithms with Js**
 
-- ⚡ How to reach me **davidmened@gmail.com** | **kubuya.darone.david@gmail.com**
+- ⚡ How to reach me **davidmened@gmail.com** | **developer.david.maene@gmail.com** -->
 
 <!-- - ⚡ My favorites langages are  **Javascript & PHP** -->
 <!-- 
@@ -73,7 +73,7 @@ I am a Electrical civil engineer and Full-Stack Software Dev. -->
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p> -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+<!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) -->
 <!-- <br/>
 <br/>
 <br/>
@@ -97,9 +97,8 @@ I am a Electrical civil engineer and Full-Stack Software Dev. -->
 <br/> -->
 
 <!-- # Contact me
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net) -->
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dav_maene) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/david-maene-a5a712146) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:davidmened@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://davidmaene.reitecinfo.net)
 
-<!-- 
 ## ❤ Views and Followers
 <a href="https://github.com/davmaene/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=davmaene">
