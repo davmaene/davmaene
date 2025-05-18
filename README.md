@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+David+Maene" alt="davmaene" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2ba889&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+David+Maene" alt="davmaene" /></h2>
 
 <h5 align="center">My Github Stats </h5>
 
