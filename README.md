@@ -23,7 +23,7 @@
 </table>
 </div>
 
-> 👉 Explore all **60+ repositories** [here](https://github.com/davmaene?tab=repositories).
+<!-- > 👉 Explore all **60+ repositories** [here](https://github.com/davmaene?tab=repositories). -->
 
 ---
 
